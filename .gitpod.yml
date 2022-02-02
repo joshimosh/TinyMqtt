@@ -1,0 +1,3 @@
+tasks:
+  - before: pip install platformio
+  
